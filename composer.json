@@ -1,5 +1,5 @@
 {
-    "name": "nitmedia/wkhtml2pdf",
+    "name": "lennon-mudenda/wkhtml2pdf",
     "description": "Html 2 Pdf - using wkhtml2pdf, work on 32bit and 64 bit linux + MacOS",
     "license": "MIT",
     "keywords": ["laravel","illuminate","pdf","wkhtmltopdf","wkhtml2pdf"],
@@ -7,6 +7,10 @@
         {
             "name": "Nithin Meppurathu",
             "email": "admin@nitmedia.com"
+        },
+        {
+            "name": "Lennon Mudenda",
+            "email": "lensig13@gmail.com"
         }
     ],
     "require": {
